@@ -1,0 +1,15 @@
+#*
+ * Access this page at the URL /extension/sample/
+ *#
+<html>
+  <head>
+    <title>Myext Extension</title>
+  </head>
+  <body>
+    <h1>Myext Extension</h1>
+
+    <p>Here is myext page</p>
+    
+
+  </body>
+</html>
